@@ -7,8 +7,6 @@ Backend and Fullstack developer currently based in Malaysia (SEA).
 
 ### Profile Badges
 
-![Profile View](https://komarev.com/ghpvc/?username=noxasch)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noxasch&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=noxasch&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
