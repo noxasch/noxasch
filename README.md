@@ -3,6 +3,10 @@
 
 Backend and Fullstack developer currently based in Malaysia (SEA).
 
+**こんにちわ, アレクです**
+
+マレーシアからバックエンドとフルスタックエンジニア。
+
 <hr/>
 
 ### Profile Badges
