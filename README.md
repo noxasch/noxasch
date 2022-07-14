@@ -9,6 +9,38 @@ Backend and Fullstack developer currently based in Malaysia (SEA).
 
 <hr/>
 
+### My Preferred Tech Stack
+
+Backend: Ruby On Rails, Hotwire/Turbo, Stimulus, Fastify (JavaScript)
+Database: Sqlite, Postgresql, MariaDB, MySQL, Redis, MongoDB
+Cloud: Digital Ocean, AWS infrastructure, Netlify
+CICD: Github Action, AWS CodePipeline
+
+### Front-End Tech Stack
+
+Although despite being professionally incline to prefer backend development and architecture,
+I also do Front End development on the side.
+
+Web: Svelte, React, Remix
+Cross-Platform: Flutter
+
+### Development History
+
+These are higlight of the tech I use the most througout the years:
+
+- 2010 - started with javascript and C
+- 2012 - C++, PHP and Wordpress
+- 2014 - VB.net and release [D2OSL](https://noxasch.blogspot.com/2014/09/extra-play-dota-2-offline-simplified-way.html)
+- 2015 - Java for OS and Android Development
+- 2016 - Python Face Recognition System, PHP web base application
+- 2017 - IOT Technologies and Digital Ocean
+- 2018 - Python Data Scraping Engine and AWS
+- 2020 - Dart and Flutter Development, Fastify
+- 2021 - Ruby and Ruby On Rails 5, CircleCI and AWS
+- 2022 - Ruby On Rails and Flutter
+
+<hr/>
+
 ### Profile Badges
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noxasch&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
