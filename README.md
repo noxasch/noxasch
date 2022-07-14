@@ -9,20 +9,24 @@ Backend and Fullstack developer currently based in Malaysia (SEA).
 
 <hr/>
 
+I love learning programming language with purpose, utilizing tech to solve real world problem, improving dev experience and all the engineering stuff involved. 
+
+Disclaimer: I am an Electronics Engineering Grads Majoring in Computer Engineering.
+
 ### My Preferred Tech Stack
 
-Backend: Ruby On Rails, Hotwire/Turbo, Stimulus, Fastify (JavaScript)
-Database: Sqlite, Postgresql, MariaDB, MySQL, Redis, MongoDB
-Cloud: Digital Ocean, AWS infrastructure, Netlify
-CICD: Github Action, AWS CodePipeline
+- Backend: Ruby On Rails, Hotwire/Turbo, Stimulus, Fastify (JavaScript)
+- Database: Sqlite, Postgresql, MariaDB, MySQL, Redis, MongoDB
+- Cloud: Digital Ocean, AWS infrastructure, Netlify
+- CICD: Github Action, AWS CodePipeline
 
 ### Front-End Tech Stack
 
 Although despite being professionally incline to prefer backend development and architecture,
 I also do Front End development on the side.
 
-Web: Svelte, React, Remix
-Cross-Platform: Flutter
+- Web: Svelte, React, Remix
+- Cross-Platform: Flutter
 
 ### Development History
 
