@@ -38,10 +38,11 @@ These are higlight of the tech I use the most througout the years:
 - 2015 - Java for OS and Android Development
 - 2016 - Python Face Recognition System, PHP web base application
 - 2017 - IOT Technologies and Digital Ocean
-- 2018 - Python Data Scraping Engine and AWS, ElectronJs
-- 2020 - Dart and Flutter Development, Fastify, Browser Extension
-- 2021 - Ruby and Ruby On Rails 5, CircleCI and AWS
-- 2022 - Ruby On Rails and Flutter
+- 2018 - Python Data Scraping Engine and AWS, ElectronJs (ex: Omnilytics, Fashion Analytics Company)
+- 2019 - Python Data Scraping Engine, Browser, Extension, Flutter (ex: Omnilytics, Fashion Analytics Company)
+- 2020 - Flutter Development, Fastify, Browser Extension
+- 2021 - Ruby and Ruby On Rails 5, CircleCI and AWS (ex: Kaodim,  Malaysia Service Marketpalce)
+- 2022 - Ruby On Rails and Flutter (ex: Kaodim, Malaysia Service Marketplace)
 
 <hr/>
 
