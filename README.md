@@ -32,7 +32,8 @@ I also do Front End development on the side.
 
 These are higlight of the tech I use the most througout the years:
 
-- 2004 - build my own pc
+- 2000 - met my first computer
+- 2007 - build my own pc
 - 2008 - started with javascript
 - 2011 - C, C++, PHP and Wordpress
 - 2013 - VB.net and release [D2OSL](https://noxasch.blogspot.com/2014/09/extra-play-dota-2-offline-simplified-way.html)
