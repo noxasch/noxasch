@@ -32,10 +32,11 @@ I also do Front End development on the side.
 
 These are higlight of the tech I use the most througout the years:
 
-- 2010 - started with javascript and C
-- 2012 - C++, PHP and Wordpress
-- 2014 - VB.net and release [D2OSL](https://noxasch.blogspot.com/2014/09/extra-play-dota-2-offline-simplified-way.html)
-- 2015 - Java for OS and Android Development
+- 2004 - build my own pc
+- 2008 - started with javascript
+- 2011 - C, C++, PHP and Wordpress
+- 2013 - VB.net and release [D2OSL](https://noxasch.blogspot.com/2014/09/extra-play-dota-2-offline-simplified-way.html)
+- 2014 - Java for OS and Android Development
 - 2016 - Python Face Recognition System, PHP web base application
 - 2017 - IOT Technologies and Digital Ocean
 - 2018 - Python Data Scraping Engine and AWS, ElectronJs (ex: Omnilytics, Fashion Analytics Company)
