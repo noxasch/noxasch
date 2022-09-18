@@ -1,6 +1,9 @@
 <!-- ### Hi there 👋 -->
 **Hello, I'm Alexander Dischberg (Asyraf)**
 
+Pronouncing noxasch:
+> nox as in latin nox, asch as in ash.
+
 Backend and Fullstack developer currently based in Malaysia (SEA).
 
 **こんにちわ, アレクです**
