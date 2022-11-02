@@ -29,7 +29,7 @@ Although despite being professionally incline to prefer backend development and 
 I also do Front End development on the side.
 
 - Web: Svelte, React, Remix
-- Cross-Platform: Flutter
+- Cross-Platform: Flutter -(mainly use Riverpod for State Management, DiP, and Caching).
 
 ### Development History
 
