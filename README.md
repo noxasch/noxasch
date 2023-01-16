@@ -6,7 +6,7 @@ Pronouncing noxasch:
 
 Backend and Fullstack developer currently based in Malaysia (SEA).
 
-**こんにちわ, アレクです**
+**こんにちは, アレクです**
 
 マレーシアからバックエンドとフルスタックエンジニア。
 
