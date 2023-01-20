@@ -18,7 +18,7 @@ Disclaimer: I am an Electronics Engineering Grads Majoring in Computer Engineeri
 
 ### My Preferred Tech Stack
 
-- Backend: Ruby On Rails, Hotwire/Turbo, Stimulus, Fastify (JavaScript)
+- Backend: Ruby On Rails, Hotwire/Turbo, Stimulus, NestJs+Fastify (JavaScript)
 - Database: Sqlite, Postgresql, MariaDB, MySQL, Redis, MongoDB
 - Cloud: Digital Ocean, AWS infrastructure, Netlify
 - CICD: Github Action, AWS CodePipeline
