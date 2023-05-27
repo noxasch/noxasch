@@ -48,6 +48,7 @@ These are higlight of the tech I use the most througout the years:
 - 2020 - Flutter Development, Fastify, Browser Extension, Flutter (Freelancing)
 - 2021 - Ruby and Ruby On Rails 5, CircleCI and AWS (ex: Kaodim,  Malaysia Service Marketpalce)
 - 2022 - Ruby On Rails 6, 7 and Flutter (ex: Kaodim, Malaysia Service Marketplace)
+- 2023 - Senior Fullstack software engineer (lead) (RoR 6, 7, DevSecOp, AWS, scaling)
 
 <hr/>
 
