@@ -28,8 +28,8 @@ Disclaimer: I am an Electronics Engineering Grads Majoring in Computer Engineeri
 Although despite being professionally incline to prefer backend development and architecture,
 I also do Front End development on the side.
 
-- Web: Svelte, React, Remix
-- Cross-Platform: Flutter -(mainly use Riverpod for State Management, DiP, and Caching).
+- Web: Vuejs, Svelte
+- Cross-Platform: Flutter - (mainly use Riverpod for State Management, DiP, and Caching).
 
 ### Development History
 
