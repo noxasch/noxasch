@@ -58,6 +58,8 @@ These are higlight of the tech I use the most througout the years:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noxasch&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=noxasch&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 <hr/>
 
