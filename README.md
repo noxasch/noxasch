@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-**Hello, I'm Alexander Dischberg (Asyraf)**
+**Hello, I'm Noxasch (Asyraf)**
 
 Pronouncing noxasch:
 > nox as in latin nox, asch as in ash.
