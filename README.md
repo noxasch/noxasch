@@ -18,7 +18,7 @@ Disclaimer: I am an Electronics Engineering Grads Majoring in Computer Engineeri
 
 ### My Preferred Tech Stack
 
-- Backend: Ruby On Rails, Hotwire/Turbo, Stimulus, NestJs+FastifyJs, AdonisJS
+- Backend: Ruby On Rails, Hotwire/Turbo, Stimulus, NestJs+FastifyJs
 - Frontend: ReactJs+Vite, Vuejs, Flutter
 - Database: Sqlite, Postgresql, MariaDB, MySQL, Redis, MongoDB
 - Cloud: Digital Ocean, AWS infrastructure, Netlify
@@ -29,7 +29,7 @@ Disclaimer: I am an Electronics Engineering Grads Majoring in Computer Engineeri
 Although despite being professionally incline to prefer backend development and architecture,
 I also do Front End development on the side.
 
-- Web: Vuejs, Svelte
+- Web: Vuejs, Shadcn, TailwindCSS
 - Cross-Platform: Flutter - (mainly use Riverpod for State Management, DiP, and Caching).
 
 ### Development History
